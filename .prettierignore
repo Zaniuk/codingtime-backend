@@ -1,0 +1,14 @@
+data
+data/.mongodb
+data/diagnostic.data
+data/journal
+data/**.wt
+data/**.wtl
+data/**.lock
+data/**.turtle
+
+node_modules
+
+
+Dockerfile
+docker-compose.yml
